@@ -1,0 +1,179 @@
+
+.bga {
+    background:url(entree.JPEG)no-repeat center fixed ;
+    background-size:cover ;
+}
+
+.bgpun {
+    background:url(portedentree.jpg)no-repeat center fixed ;
+    background-size:cover ;
+}
+
+.logo {
+    position: absolute;
+    left:20%;
+    top: 20%;
+    
+}
+.play {
+    position:absolute;
+    left:45%;
+    top: 40%;
+    height: 8%;
+    width: 15%;
+
+
+}
+.perso {
+    position:absolute;
+    left:2%;
+    top: 40%;
+    height: 60%;
+    width: 30%;
+}
+.boco {
+    position:absolute;
+    left:20%;
+    top: 80%;
+    height: 18%;
+    width: 70%;
+
+}
+.premierpg {
+    position:absolute;
+    left:35%;
+    top: 80%;
+    font-size: 24px;
+    font-family: Courier New, Courier, monospace;
+}
+
+.prenom {
+    position:absolute;
+    left:22%;
+    top: 72%;
+    font-size: 28px;;
+    font-family:Courier New, Courier, monospace;
+}
+
+.tetelea {
+    position:absolute;
+    left:19%;
+    top: 83%;
+    height: 14%;
+    width: 15%;
+}
+.bulleprenom {
+    position:absolute;
+    left:21%;
+    top: 75%;
+    height: 5%;
+    width: 9%;
+}
+.secondpg {
+    position:absolute;
+    left:35%;
+    top: 83%;
+    font-size: 24px;
+    font-family: Courier New, Courier, monospace;
+
+}
+.oui {
+    position:absolute;
+    left:81%;
+    top:73%;
+    font-size: 24px;
+    font-family: Courier New, Courier, monospace;
+}
+
+.non {
+    position:absolute;
+    left:81%;
+    top: 67%;
+    font-size: 24px;
+    font-family: Courier New, Courier, monospace;
+}
+.boutonskip{
+    position:absolute;
+    left:77%;
+    top: 90%;
+    height: 5%;
+    width: 9%;
+}
+.boutonoui{
+    position:absolute;
+    left:80%;
+    top: 75%;
+    height: 5%;
+    width: 9%;
+}
+.boutonnon{
+    position:absolute;
+    left:80%;
+    top: 69%;
+    height: 5%;
+    width: 9%;
+}
+.troisiemepg{
+    position:absolute;
+    left:35%;
+    top: 87%;
+    font-size: 24px;
+    font-family: Courier New, Courier, monospace;
+}
+.quatrepg{
+    position:absolute;
+    left:79%;
+    top: 88%;
+    font-size: 24px;
+    font-family: Courier New, Courier, monospace;
+}
+.tetehind{
+    position:absolute;
+    left:22%;
+    top: 82%;
+    height: 15%;
+    width: 10%;
+}
+.bgpdeux{
+    background:url(salledeclasseun.jpg)no-repeat center fixed ;
+    background-size:cover ;
+}
+   
+.bgptrois{
+    background:url(arretdebus.jpg)no-repeat center fixed ;
+    background-size:cover ;
+}
+.bgpquatre{
+    background:url(refectoire.jpg)no-repeat center fixed ;
+    background-size:cover ;
+}
+.bgpcinq{
+    background:url(admin.jpg)no-repeat center fixed ;
+    background-size:cover ;
+}
+.bgpsix{
+    background:url(coworking.png)no-repeat center fixed ;
+    background-size:cover ;
+}
+.bgpsept{
+    background:url(salledesport.jpg)no-repeat center fixed ;
+    background-size:cover ;
+}
+.accepter{
+    position:absolute;
+    left:81%;
+    top:73%;
+    font-size: 23px;
+    font-family: Courier New, Courier, monospace;
+}
+.refuser{
+    position:absolute;
+    left:81%;
+    top: 67%;
+    font-size: 24px;
+    font-family: Courier New, Courier, monospace;
+}
+.bgphuit{
+    background:url(infirmerie.jpg)no-repeat center fixed ;
+    background-size:cover ; 
+}
